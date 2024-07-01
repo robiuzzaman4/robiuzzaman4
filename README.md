@@ -3,7 +3,17 @@
 Innovative Frontend Developer with a passion for creating engaging user interfaces & experiences. Seeking opportunities to contribute expertise and collaborate with dynamic teams for developing useful and scalable web applications.
 
 ## Socials:
-[<p align="center"><img height="40" style="margin: 5px;" src="./icons/facebook.png">](https://www.facebook.com/robiuzzaman4?mibextid=ZbWKwL)[<img height="40" style="margin: 5px;" src="./icons/linkedin.png">](https://www.linkedin.com/in/robiuzzaman4/)[<img height="40" style="margin: 5px;" src="./icons/twitter.png"> </p>](https://twitter.com/robiuzzaman4)
+<p align="center">
+  <a href="https://www.facebook.com/robiuzzaman4">
+    <img height="40" style="margin: 5px;" src="./icons/facebook.png">
+  </a>
+  <a href="https://www.linkedin.com/in/robiuzzaman4/">
+    <img height="40" style="margin: 5px;" src="./icons/linkedin.png">
+  </a>
+  <a href="https://twitter.com/robiuzzaman4">
+    <img height="40" style="margin: 5px;" src="./icons/twitter.png">
+  </a>
+</p>
 
 
 ## Tech Stacks:
