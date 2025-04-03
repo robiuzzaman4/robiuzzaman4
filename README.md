@@ -1,63 +1,64 @@
-# About Me:
+<h2 align="left">Hi 👋! This is Md. Robi-uz-zaman Ruhan, a FullStack Developer From Bangladesh.</h2>
 
-Innovative Frontend Developer with a passion for creating engaging user interfaces & experiences. Seeking opportunities to contribute expertise and collaborate with dynamic teams for developing useful and scalable web applications.
+###
 
-## Socials:
-<p align="center">
-  <a href="https://www.facebook.com/robiuzzaman4">
-    <img height="40" style="margin: 5px;" src="./icons/facebook.png">
+<h3 align="left">Tech Stacks</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+</div>
+
+###
+
+<h3 align="left">Socials</h3>
+
+###
+
+<div align="left">
+  <a href="https://discord.com/users/1113100600763240489" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/robiuzzaman4/">
-    <img height="40" style="margin: 5px;" src="./icons/linkedin.png">
+  <a href="https://www.linkedin.com/in/robiuzzaman4/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/robiuzzaman4">
-    <img height="40" style="margin: 5px;" src="./icons/twitter.png">
+  <a href="https://x.com/robiuzzaman4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-</p>
+  <a href="https://www.facebook.com/robiuzzaman4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+</div>
 
+###
 
-## Tech Stacks:
-<p align="center"> 
-  <img height="36" style="margin: 10px;" src="./icons/html.svg">
-  <img height="36" style="margin: 10px;" src="./icons/css.svg">
-  <img height="36" style="margin: 10px;" src="./icons/bootstrap.svg">
-  <img height="36" style="margin: 10px;" src="./icons/sass.svg">
-  <img height="36" style="margin: 10px;" src="./icons/javascript.svg">
-  <img height="36" style="margin: 10px;" src="./icons/typescript.svg">
-  <img height="36" style="margin: 10px;" src="./icons/react.svg">
-  <img height="36" style="margin: 10px;" width="52" src="./icons/tailwind.svg">
-  <img height="36" style="margin: 10px;" src="./icons/redux.svg">
-  <img height="36" style="margin: 10px;" src="./icons/nextjs.svg">
-  <img height="36" style="margin: 10px;" src="./icons/nodejs.svg">
-  <img height="36" style="margin: 10px;" src="./icons/expressjs.svg">
-  <img height="36" style="margin: 10px;" src="./icons/mongodb.svg">
-  <img height="36" style="margin: 10px;" src="./icons/firebase.svg">
-</p>
+<h3 align="left">All States</h3>
 
-## Current Stats:
+###
 
-<br />
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=robiuzzaman4&theme=react&hide_border=true&border_radius=4&bg_color=09090b&title_color=84cc16" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robiuzzaman4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robiuzzaman4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=robiuzzaman4&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-## Current Streak Stats:
-
-<br />
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=robiuzzaman4&theme=react&hide_border=true&border_radius=4&background=09090b&stroke=1f2937&fire=d946ef&sideLabels=84cc16&currStreakNum=d946ef&ring=d946ef&currStreakLabel=d946ef&sideNums=84cc16" />
-</p>
-
-## Common Languages:
-
-<br />
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robiuzzaman4&theme=react&hide_border=true&border_radius=4&bg_color=09090b&title_color=84cc16&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-## Current Overview:
-
-### 🌱 I’m exploring - Modern web thechnologies.
-### 👯 I’m looking - To collaborate on a dynamic team.
-### 😄 Pronouns - Ruhan.
-### ⚡ Fun fact - I love to play Football. 
+###
